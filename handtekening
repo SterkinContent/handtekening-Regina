@@ -2,58 +2,36 @@
 <html>
 <head>
   <meta charset="UTF-8">
+  <title>Handtekening</title>
 </head>
 <body>
 
 <table cellpadding="0" cellspacing="0" border="0" style="font-family: Calibri, Arial, sans-serif; font-size: 14px; color: #222222;">
-  
   <tr>
-    <td colspan="2" style="padding-bottom: 10px;">
-      Met vriendelijke groet,
-    </td>
+    <td colspan="2" style="padding: 0 0 10px 0;">Met vriendelijke groet,</td>
   </tr>
-
   <tr>
-    <!-- LOGO -->
-    <td style="vertical-align: top; padding-right: 15px;">
+    <td style="vertical-align: top; padding-right: 18px; border-right: 2px solid #CC0000;">
       <img src="https://i.imgur.com/JtOknIn.jpeg" alt="Gastouderbureau Roodkapje" width="110" style="display:block; border:0;">
     </td>
-
-    <!-- TEKST -->
-    <td style="vertical-align: top; line-height: 1.5;">
-      
-      <div style="font-size: 15px; font-weight: bold;">
-        Voornaam Achternaam
+    <td style="vertical-align: top; padding-left: 18px;">
+      <div style="font-size: 15px; font-weight: 700; color: #222222; margin-bottom: 2px;">Regina Aartse</div>
+      <div style="font-weight: 700; color: #CC0000; margin-bottom: 8px;">Gastouderbureau Roodkapje</div>
+      <div style="border-top: 1px solid #dddddd; margin-bottom: 8px;"></div>
+      <div style="margin-bottom: 4px;">
+        <span style="font-weight: 700; color: #555555; font-size: 13px;">T&nbsp;</span>
+        <a href="tel:+31651428328" style="color: #222222; text-decoration: none;">06 514 28 328</a>
       </div>
-
-      <div style="color: #666666; padding-bottom: 8px;">
-        Functie
+      <div style="margin-bottom: 4px;">
+        <span style="font-weight: 700; color: #555555; font-size: 13px;">E&nbsp;</span>
+        <a href="mailto:Regina@gobroodkapje.nl" style="color: #222222; text-decoration: none;">Regina@gobroodkapje.nl</a>
       </div>
-
-      <div style="font-weight: bold;">
-        Gastouderbureau Roodkapje
-      </div>
-
-      <div>Adres</div>
-      <div>Postcode en plaats</div>
-
-      <div style="padding-top: 6px;">
-        <span style="font-weight: bold;">T </span>
-        <a href="tel:+31551234546" style="color: #222222; text-decoration: none;">
-          (055) 1234546
-        </a>
-      </div>
-
       <div>
-        <span style="font-weight: bold;">E </span>
-        <a href="mailto:naam@gastouderbureauroodkapje.nl" style="color: #d6001c; text-decoration: none;">
-          naam@gastouderbureauroodkapje.nl
-        </a>
+        <span style="font-weight: 700; color: #555555; font-size: 13px;">W&nbsp;</span>
+        <a href="https://www.gastouderbureauroodkapje.nl/" style="color: #CC0000; text-decoration: none;">www.gastouderbureauroodkapje.nl</a>
       </div>
-
     </td>
   </tr>
-
 </table>
 
 </body>
